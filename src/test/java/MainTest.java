@@ -11,7 +11,7 @@ public class MainTest {
 
     @Test
     void checkMoreThanOne(){
-        assertEquals(5, Main.fibonacci(5));
+        assertEquals(6, Main.fibonacci(5));
     }
 
 }
